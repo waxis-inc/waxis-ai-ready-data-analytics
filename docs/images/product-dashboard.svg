@@ -1,0 +1,48 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Waxis AI-ready Data and Analytics dashboard</title>
+  <desc id="desc">A black and white dashboard illustration showing data health, semantic metrics, natural language analytics, reports, and anomalies.</desc>
+  <style>
+    .bg{fill:#fff}.line{stroke:#111;stroke-width:1.4}.soft{stroke:#cfcfcf;stroke-width:1}.panel{fill:#fff;stroke:#111;stroke-width:1.4}.sub{fill:#f7f7f7;stroke:#d8d8d8}.title{font:600 24px Inter,Arial,sans-serif;fill:#111}.h{font:600 15px Inter,Arial,sans-serif;fill:#111}.t{font:500 12px Inter,Arial,sans-serif;fill:#555}.xs{font:500 10px Inter,Arial,sans-serif;fill:#777}
+  </style>
+  <rect class="bg" width="1280" height="720"/>
+  <rect x="70" y="58" width="1140" height="604" rx="26" class="panel"/>
+  <rect x="70" y="58" width="1140" height="58" rx="26" class="sub"/>
+  <path d="M70 94H1210" class="soft"/>
+  <circle cx="104" cy="86" r="7" fill="#111"/><circle cx="128" cy="86" r="7" fill="#777"/><circle cx="152" cy="86" r="7" fill="#d0d0d0"/>
+  <text x="188" y="93" class="title">Waxis AI-ready Data Analytics</text>
+  <rect x="98" y="146" width="260" height="210" rx="18" class="panel"/>
+  <text x="124" y="181" class="h">Data Health</text>
+  <rect x="124" y="216" width="188" height="28" rx="14" fill="#111"/>
+  <rect x="124" y="262" width="188" height="28" rx="14" fill="#fff" stroke="#111"/>
+  <rect x="124" y="308" width="132" height="16" rx="8" fill="#d8d8d8"/>
+  <rect x="388" y="146" width="338" height="210" rx="18" class="panel"/>
+  <text x="414" y="181" class="h">Semantic Metrics</text>
+  <circle cx="466" cy="260" r="22" fill="#111"/><circle cx="566" cy="218" r="18" fill="#fff" stroke="#111"/><circle cx="620" cy="296" r="18" fill="#fff" stroke="#111"/>
+  <path d="M486 251L548 226M486 269L602 291" class="line"/>
+  <rect x="650" y="220" width="48" height="112" rx="12" class="sub"/>
+  <rect x="756" y="146" width="404" height="210" rx="18" class="panel"/>
+  <text x="782" y="181" class="h">Ask Data</text>
+  <rect x="782" y="216" width="316" height="38" rx="19" fill="#f7f7f7" stroke="#111"/>
+  <rect x="782" y="282" width="176" height="12" rx="6" fill="#111"/>
+  <rect x="782" y="310" width="282" height="10" rx="5" fill="#777"/>
+  <rect x="98" y="386" width="418" height="218" rx="18" class="panel"/>
+  <text x="124" y="421" class="h">KPI Dashboard</text>
+  <rect x="124" y="456" width="86" height="52" rx="12" class="sub"/>
+  <rect x="230" y="456" width="86" height="52" rx="12" class="sub"/>
+  <rect x="336" y="456" width="86" height="52" rx="12" class="sub"/>
+  <path d="M128 560L174 530L222 544L282 500L340 520L444 474" class="line"/>
+  <path d="M128 560H462M128 510H462" class="soft"/>
+  <rect x="546" y="386" width="278" height="218" rx="18" class="panel"/>
+  <text x="572" y="421" class="h">Recurring Reports</text>
+  <rect x="572" y="458" width="206" height="34" rx="10" class="sub"/>
+  <rect x="572" y="510" width="206" height="34" rx="10" class="sub"/>
+  <rect x="572" y="562" width="132" height="18" rx="9" fill="#111"/>
+  <rect x="854" y="386" width="306" height="218" rx="18" class="panel"/>
+  <text x="880" y="421" class="h">Anomaly Drivers</text>
+  <rect x="888" y="468" width="46" height="88" fill="#111"/>
+  <rect x="956" y="500" width="46" height="56" fill="#777"/>
+  <rect x="1024" y="442" width="46" height="114" fill="#d8d8d8"/>
+  <rect x="1092" y="486" width="46" height="70" fill="#111"/>
+  <path d="M880 556H1148" class="soft"/>
+</svg>
+
