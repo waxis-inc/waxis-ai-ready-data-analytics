@@ -2,7 +2,15 @@
 
 Governed analytics software for data ingestion, semantic metrics, natural-language questions, recurring reports, anomaly alerts, and source-backed business decisions.
 
+## Product Preview
+
 ![Waxis AI-ready Data and Analytics dashboard](./docs/images/product-dashboard.svg)
+
+![Waxis AI-ready Data and Analytics workflow](./docs/images/product-workflow.svg)
+
+![Waxis AI-ready Data and Analytics architecture](./docs/images/product-architecture.svg)
+
+
 
 ## What It Is
 
@@ -64,4 +72,3 @@ The complete product requirements document is here:
 ## Research Basis
 
 This repo uses a June 2026 research snapshot across official semantic-layer, conversational analytics, BI Copilot, governance, and AI safety sources, including Snowflake Cortex Analyst, Databricks Genie, Power BI Copilot, dbt Semantic Layer, NIST AI RMF, OWASP LLM Top 10, and MCP.
-

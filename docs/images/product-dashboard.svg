@@ -1,61 +1,61 @@
-<svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Waxis AI-ready Data and Analytics dashboard</title>
-  <desc id="desc">A black and white dashboard illustration showing data health, semantic metrics, natural language analytics, reports, and anomalies.</desc>
-  <style>
-    .bg{fill:#fff}.line{stroke:#111;stroke-width:1.4}.soft{stroke:#cfcfcf;stroke-width:1}.panel{fill:#fff;stroke:#111;stroke-width:1.4}.sub{fill:#f7f7f7;stroke:#d8d8d8}.title{font:600 24px Inter,Arial,sans-serif;fill:#111}.h{font:600 15px Inter,Arial,sans-serif;fill:#111}.t{font:500 12px Inter,Arial,sans-serif;fill:#555}.xs{font:500 10px Inter,Arial,sans-serif;fill:#777}
-  </style>
-  <rect class="bg" width="1280" height="720"/>
-  <rect x="70" y="58" width="1140" height="604" rx="26" class="panel"/>
-  <rect x="70" y="58" width="1140" height="58" rx="26" class="sub"/>
-  <path d="M70 94H1210" class="soft"/>
-  <circle cx="104" cy="86" r="7" fill="#111"/><circle cx="128" cy="86" r="7" fill="#777"/><circle cx="152" cy="86" r="7" fill="#d0d0d0"/>
-  <text x="188" y="93" class="title">Waxis AI-ready Data Analytics</text>
-  <rect x="98" y="146" width="260" height="210" rx="18" class="panel"/>
-  <text x="124" y="181" class="h">Data Health</text>
-  <rect x="124" y="216" width="188" height="28" rx="14" fill="#111"/>
-  <rect x="124" y="262" width="188" height="28" rx="14" fill="#fff" stroke="#111"/>
-  <rect x="124" y="308" width="132" height="16" rx="8" fill="#d8d8d8"/>
-  <text x="144" y="234" class="xs" fill="#fff">Freshness</text>
-  <text x="144" y="280" class="xs">quality checks</text>
-  <text x="124" y="344" class="xs">Lineage</text>
-  <rect x="388" y="146" width="338" height="210" rx="18" class="panel"/>
-  <text x="414" y="181" class="h">Semantic Metrics</text>
-  <circle cx="466" cy="260" r="22" fill="#111"/><circle cx="566" cy="218" r="18" fill="#fff" stroke="#111"/><circle cx="620" cy="296" r="18" fill="#fff" stroke="#111"/>
-  <path d="M486 251L548 226M486 269L602 291" class="line"/>
-  <rect x="650" y="220" width="48" height="112" rx="12" class="sub"/>
-  <text x="414" y="336" class="xs">Metric Owner</text>
-  <text x="548" y="214" class="xs">revenue</text>
-  <text x="602" y="318" class="xs">margin</text>
-  <rect x="756" y="146" width="404" height="210" rx="18" class="panel"/>
-  <text x="782" y="181" class="h">Ask Data</text>
-  <rect x="782" y="216" width="316" height="38" rx="19" fill="#f7f7f7" stroke="#111"/>
-  <rect x="782" y="282" width="176" height="12" rx="6" fill="#111"/>
-  <rect x="782" y="310" width="282" height="10" rx="5" fill="#777"/>
-  <text x="804" y="240" class="xs">natural language question</text>
-  <text x="782" y="274" class="xs">Generated SQL</text>
-  <text x="782" y="340" class="xs">Governance checked</text>
-  <rect x="98" y="386" width="418" height="218" rx="18" class="panel"/>
-  <text x="124" y="421" class="h">KPI Dashboard</text>
-  <rect x="124" y="456" width="86" height="52" rx="12" class="sub"/>
-  <rect x="230" y="456" width="86" height="52" rx="12" class="sub"/>
-  <rect x="336" y="456" width="86" height="52" rx="12" class="sub"/>
-  <text x="142" y="488" class="xs">MRR</text>
-  <text x="248" y="488" class="xs">SLA</text>
-  <text x="354" y="488" class="xs">Inventory</text>
-  <path d="M128 560L174 530L222 544L282 500L340 520L444 474" class="line"/>
-  <path d="M128 560H462M128 510H462" class="soft"/>
-  <rect x="546" y="386" width="278" height="218" rx="18" class="panel"/>
-  <text x="572" y="421" class="h">Recurring Reports</text>
-  <rect x="572" y="458" width="206" height="34" rx="10" class="sub"/>
-  <rect x="572" y="510" width="206" height="34" rx="10" class="sub"/>
-  <rect x="572" y="562" width="132" height="18" rx="9" fill="#111"/>
-  <text x="590" y="480" class="xs">weekly KPI brief</text>
-  <text x="590" y="532" class="xs">exec summary</text>
-  <rect x="854" y="386" width="306" height="218" rx="18" class="panel"/>
-  <text x="880" y="421" class="h">Anomaly Drivers</text>
-  <rect x="888" y="468" width="46" height="88" fill="#111"/>
-  <rect x="956" y="500" width="46" height="56" fill="#777"/>
-  <rect x="1024" y="442" width="46" height="114" fill="#d8d8d8"/>
-  <rect x="1092" y="486" width="46" height="70" fill="#111"/>
-  <path d="M880 556H1148" class="soft"/>
+<svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Waxis AI-ready Data &amp; Analytics">
+
+<style>
+.bg{fill:#fff}.window{fill:#fff;stroke:#111;stroke-width:1.25}.bar{fill:#f7f7f7;stroke:#ddd;stroke-width:1}.panel{fill:#fff;stroke:#111;stroke-width:1.15}.soft{fill:#fafafa;stroke:#d9d9d9;stroke-width:1}.ghost{fill:#f6f6f6;stroke:#e5e5e5;stroke-width:1}.black{fill:#111}.mid{fill:#777}.light{fill:#d8d8d8}.line{stroke:#111;stroke-width:1.25;fill:none}.thin{stroke:#d4d4d4;stroke-width:1;fill:none}.dash{stroke:#999;stroke-width:1;stroke-dasharray:5 5;fill:none}.title{font:700 24px -apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif;fill:#111}.sub{font:500 11px -apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif;fill:#666}.h{font:700 15px -apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif;fill:#111}.t{font:500 12px -apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif;fill:#555}.xs{font:500 10px -apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif;fill:#777}.tiny{font:500 8.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif;fill:#777}.whiteText{font:700 10px -apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif;fill:#fff}.mono{font:500 10px SFMono-Regular,Menlo,Consolas,monospace;fill:#555}
+</style>
+
+<rect class="bg" width="1280" height="720"/>
+<rect x="48" y="42" width="1184" height="636" rx="28" class="window"/>
+<rect x="48" y="42" width="1184" height="64" rx="28" class="bar"/>
+<path d="M48 82H1232" class="thin"/>
+<circle cx="84" cy="74" r="7" class="black"/><circle cx="110" cy="74" r="7" class="mid"/><circle cx="136" cy="74" r="7" class="light"/>
+<text x="176" y="72" class="title">Waxis AI-ready Data &amp; Analytics</text>
+<text x="176" y="94" class="sub">Governed ingestion, semantic metrics, natural-language analytics, reports, and anomalies.</text>
+
+<rect x="82" y="138" width="200" height="500" rx="18" class="soft"/>
+<text x="110" y="176" class="h">Product Surface</text>
+<rect x="110" y="218" width="140" height="25" rx="12" fill="#fff" stroke="#ddd" stroke-width="1"/><text x="124" y="235" class="xs">Data Health</text>
+<rect x="110" y="264" width="140" height="25" rx="12" fill="#fff" stroke="#ddd" stroke-width="1"/><text x="124" y="281" class="xs">Metrics</text>
+<rect x="110" y="310" width="140" height="25" rx="12" fill="#111" stroke="#111" stroke-width="1"/><text x="124" y="327" class="whiteText">Ask Data</text>
+<rect x="110" y="356" width="140" height="25" rx="12" fill="#fff" stroke="#ddd" stroke-width="1"/><text x="124" y="373" class="xs">Reports</text>
+<rect x="110" y="402" width="140" height="25" rx="12" fill="#fff" stroke="#ddd" stroke-width="1"/><text x="124" y="419" class="xs">Alerts</text>
+<path d="M110 568H250" class="thin"/>
+<text x="110" y="604" class="xs">Production-grade view</text>
+<rect x="318" y="138" width="250" height="214" rx="18" class="panel"/>
+<text x="344" y="174" class="h">Data Health</text>
+<rect x="344" y="206" width="142" height="24" rx="12" fill="#111" stroke="#111" stroke-width="1"/>
+<text x="362" y="222" class="whiteText">Freshness</text>
+<rect x="344" y="240" width="142" height="24" rx="12" fill="#fafafa" stroke="#ddd" stroke-width="1"/>
+<text x="362" y="256" class="xs">Quality checks</text>
+<rect x="344" y="274" width="142" height="24" rx="12" fill="#fafafa" stroke="#ddd" stroke-width="1"/>
+<text x="362" y="290" class="xs">Lineage</text>
+<rect x="344" y="308" width="142" height="24" rx="12" fill="#fafafa" stroke="#ddd" stroke-width="1"/>
+<text x="362" y="324" class="xs">Source sync</text>
+<rect x="598" y="138" width="280" height="214" rx="18" class="panel"/>
+<text x="624" y="174" class="h">Semantic Metrics</text>
+<circle cx="676" cy="252" r="24" fill="#111"/><circle cx="760" cy="214" r="18" fill="#fff" stroke="#111"/><circle cx="800" cy="292" r="18" fill="#fff" stroke="#111"/><path d="M698 244L742 222M698 262L782 288" class="line"/>
+<text x="628" y="328" class="tiny">Metric Owner / Revenue / Margin / SLA</text>
+<rect x="908" y="138" width="250" height="214" rx="18" class="panel"/>
+<text x="934" y="174" class="h">Ask Data</text>
+<rect x="934" y="208" width="168" height="30" rx="15" fill="#fafafa" stroke="#111" stroke-width="1"/>
+<text x="952" y="228" class="xs">natural language</text>
+<text x="934" y="270" class="h">Generated SQL</text>
+<rect x="934" y="288" width="182" height="8" rx="4" fill="#111"/><rect x="934" y="306" width="150" height="8" rx="4" fill="#d8d8d8"/>
+<rect x="318" y="382" width="470" height="230" rx="18" class="panel"/>
+<text x="344" y="418" class="h">KPI Dashboard</text>
+<rect x="344" y="450" width="104" height="54" rx="14" fill="#fafafa" stroke="#ddd" stroke-width="1"/>
+<text x="366" y="482" class="xs">MRR</text>
+<rect x="476" y="450" width="104" height="54" rx="14" fill="#fafafa" stroke="#ddd" stroke-width="1"/>
+<text x="498" y="482" class="xs">SLA</text>
+<rect x="608" y="450" width="104" height="54" rx="14" fill="#fafafa" stroke="#ddd" stroke-width="1"/>
+<text x="630" y="482" class="xs">Inventory Risk</text>
+<path d="M344 570L396 530L448 548L510 506L572 520L662 482" class="line"/>
+<path d="M344 570H710M344 520H710" class="thin"/>
+<rect x="818" y="382" width="340" height="230" rx="18" class="panel"/>
+<text x="844" y="418" class="h">Anomaly Drivers</text>
+<rect x="858" y="466" width="38" height="94" fill="#111"/>
+<rect x="920" y="504" width="38" height="56" fill="#777"/>
+<rect x="982" y="438" width="38" height="122" fill="#d8d8d8"/>
+<rect x="1044" y="486" width="38" height="74" fill="#111"/>
+<text x="844" y="590" class="tiny">recurring report / executive summary / caveats</text>
 </svg>
