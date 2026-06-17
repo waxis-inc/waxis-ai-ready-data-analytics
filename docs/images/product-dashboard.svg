@@ -15,21 +15,33 @@
   <rect x="124" y="216" width="188" height="28" rx="14" fill="#111"/>
   <rect x="124" y="262" width="188" height="28" rx="14" fill="#fff" stroke="#111"/>
   <rect x="124" y="308" width="132" height="16" rx="8" fill="#d8d8d8"/>
+  <text x="144" y="234" class="xs" fill="#fff">Freshness</text>
+  <text x="144" y="280" class="xs">quality checks</text>
+  <text x="124" y="344" class="xs">Lineage</text>
   <rect x="388" y="146" width="338" height="210" rx="18" class="panel"/>
   <text x="414" y="181" class="h">Semantic Metrics</text>
   <circle cx="466" cy="260" r="22" fill="#111"/><circle cx="566" cy="218" r="18" fill="#fff" stroke="#111"/><circle cx="620" cy="296" r="18" fill="#fff" stroke="#111"/>
   <path d="M486 251L548 226M486 269L602 291" class="line"/>
   <rect x="650" y="220" width="48" height="112" rx="12" class="sub"/>
+  <text x="414" y="336" class="xs">Metric Owner</text>
+  <text x="548" y="214" class="xs">revenue</text>
+  <text x="602" y="318" class="xs">margin</text>
   <rect x="756" y="146" width="404" height="210" rx="18" class="panel"/>
   <text x="782" y="181" class="h">Ask Data</text>
   <rect x="782" y="216" width="316" height="38" rx="19" fill="#f7f7f7" stroke="#111"/>
   <rect x="782" y="282" width="176" height="12" rx="6" fill="#111"/>
   <rect x="782" y="310" width="282" height="10" rx="5" fill="#777"/>
+  <text x="804" y="240" class="xs">natural language question</text>
+  <text x="782" y="274" class="xs">Generated SQL</text>
+  <text x="782" y="340" class="xs">Governance checked</text>
   <rect x="98" y="386" width="418" height="218" rx="18" class="panel"/>
   <text x="124" y="421" class="h">KPI Dashboard</text>
   <rect x="124" y="456" width="86" height="52" rx="12" class="sub"/>
   <rect x="230" y="456" width="86" height="52" rx="12" class="sub"/>
   <rect x="336" y="456" width="86" height="52" rx="12" class="sub"/>
+  <text x="142" y="488" class="xs">MRR</text>
+  <text x="248" y="488" class="xs">SLA</text>
+  <text x="354" y="488" class="xs">Inventory</text>
   <path d="M128 560L174 530L222 544L282 500L340 520L444 474" class="line"/>
   <path d="M128 560H462M128 510H462" class="soft"/>
   <rect x="546" y="386" width="278" height="218" rx="18" class="panel"/>
@@ -37,6 +49,8 @@
   <rect x="572" y="458" width="206" height="34" rx="10" class="sub"/>
   <rect x="572" y="510" width="206" height="34" rx="10" class="sub"/>
   <rect x="572" y="562" width="132" height="18" rx="9" fill="#111"/>
+  <text x="590" y="480" class="xs">weekly KPI brief</text>
+  <text x="590" y="532" class="xs">exec summary</text>
   <rect x="854" y="386" width="306" height="218" rx="18" class="panel"/>
   <text x="880" y="421" class="h">Anomaly Drivers</text>
   <rect x="888" y="468" width="46" height="88" fill="#111"/>
@@ -45,4 +59,3 @@
   <rect x="1092" y="486" width="46" height="70" fill="#111"/>
   <path d="M880 556H1148" class="soft"/>
 </svg>
-
